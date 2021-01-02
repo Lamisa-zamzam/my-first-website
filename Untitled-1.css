@@ -1,0 +1,47 @@
+<style>
+    div{
+        color:red;
+    }
+
+    p{
+        color:#ff0009;
+        font-size: 90px;
+        font-weight: 900;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+        background-color: yellow;
+    }
+
+    h1{
+       float: left;
+       width: 20%;
+       margin: 2px;
+       padding: 20px;
+       height: 40px;
+       border: 2px solid black;
+        color:rgba(200,40,10,.223)
+        
+    }
+
+    h3 {
+        color:hsl(49,40,11)
+    }
+    img {
+        width: 400px;
+        height: 500px;
+    }
+    #Neto{
+        width: 700px;
+        height: 440px;
+    }
+    #Rakitic{
+        width: 500px;
+        height: 600px;
+    }
+    .busy{
+        background-color: black;
+    }
+    .waliza{
+        background-color: red;
+    }
+
+</style>
